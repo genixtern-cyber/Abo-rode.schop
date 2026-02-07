@@ -64,11 +64,11 @@ sbereich</div>
                                 </div>
                                 Gültig von
                             </div>
-                            <div style="display: flex; align-items: center; font-weight: bold; color: rgb(0, 0, 0);">01.12.2025 - 00:00</div>
+                            <div style="display: flex; align-items: center; font-weight: bold; color: rgb(0, 0, 0);">01.02.2026 - 00:00</div>
                         </div>
                         <div style="display: flex; justify-content: space-between; padding-left: 40px; position: relative;">
                             <div style="display: flex; align-items: center;">Gültig bis</div>
-                            <div style="display: flex; align-items: center; font-weight: bold; color: rgb(0, 0, 0);">01.01.2026 - 03:00</div>
+                            <div style="display: flex; align-items: center; font-weight: bold; color: rgb(0, 0, 0);">01.03.2026 - 03:00</div>
                         </div>
                         <div style="display: flex; justify-content: space-between; padding-left: 40px; position: relative;">
                             <div style="display: flex; align-items: center;">Geltung
